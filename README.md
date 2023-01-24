@@ -1,4 +1,4 @@
-## Project Name & Pitch
+## Project CRUD with Nodejs and Reactjs with Redux, Redux-Thunk
 
 #### Example:
 
