@@ -13,13 +13,16 @@ An application used to filter data form Twitter based on user preference, built 
 
 This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
 
+## Website hosted at Netlify
+  https://grocerycrud.netlify.app/  
+  
 ## Project Screen Shot(s)
 
 #### Example:   
 
-[ PRETEND SCREEN SHOT IS HERE ]
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+![1](https://user-images.githubusercontent.com/79029068/214220392-a9ff8bb4-e493-499f-aec3-78074c114024.png)
+![2](https://user-images.githubusercontent.com/79029068/214220405-49cf5dc6-75b6-468b-b59a-4277549cea88.png)
+![3](https://user-images.githubusercontent.com/79029068/214220406-d7752d2e-e7d8-4ee7-844d-c6831780aaf8.png)
 
 ## Installation and Setup Instructions
 
@@ -42,13 +45,6 @@ To Start Server:
 To Visit App:
 
 `localhost:3000/`  
-## Website hosted at Netlify
-  https://grocerycrud.netlify.app/  
-## Project Screenshoots
-  
-![1](https://user-images.githubusercontent.com/79029068/214220392-a9ff8bb4-e493-499f-aec3-78074c114024.png)
-![2](https://user-images.githubusercontent.com/79029068/214220405-49cf5dc6-75b6-468b-b59a-4277549cea88.png)
-![3](https://user-images.githubusercontent.com/79029068/214220406-d7752d2e-e7d8-4ee7-844d-c6831780aaf8.png)
 
 ## Reflection
 
